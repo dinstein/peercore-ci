@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     gtk-doc-tools \
     libffi-dev libpcre3-dev libmount-dev \
     pkg-config \
+    texinfo \
     wget \
     zlib1g-dev
 
