@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     ca-certificates cmake curl \
     git gperf gtk-doc-tools \
     libglib2.0-dev libffi-dev libpcre3-dev libmount-dev \
+    openssh-client \
     pkg-config \
     texinfo \
     unzip \
